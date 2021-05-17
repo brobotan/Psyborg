@@ -1,4 +1,5 @@
 # PSYBORG
+<img src="https://github.com/brobotan/Psyborg/blob/main/Readme-resources/output-onlinepngtools(tr)-square.png" alt="logo" height="200" width="200"/>
 
 ##### Game Development Using Unity3D
 #### COMPUTER GRAPHICS
