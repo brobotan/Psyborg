@@ -5,7 +5,7 @@
 #### COMPUTER GRAPHICS
 
 
-ANMOL SINHA  anmol24_soe@jnu.ac.in <br>
+  anmol24_soe@jnu.ac.in <br>
 ARYA DWIVEDI  arya44_soe@jnu.ac.in <br>
 BHAVISHYA RAJ  bhavis58_soe@jnu.ac.in <br>
 R SHARAVAN  shrava72_soe@jnu.ac.in <br>
