@@ -11,7 +11,7 @@ BHAVISHYA RAJ  bhavis58_soe@jnu.ac.in <br>
 R SHRAVAN  shrava72_soe@jnu.ac.in <br>
 
 ## AIM
-To Provide player with complete immersion. For this, design and implement an open world adventure 3-D game using Unity named ‘Psyborg’, where a player can freely roam in a virtual world. Provide a simulated reality and to allow players to develop their character and its behavior in the direction and pace of their choosing.
+To Provide player with complete immersion. For this, design and implement an open-world adventure 3-D game using Unity named ‘Psyborg’, where a player can freely roam in a virtual world. Provide a simulated reality and to allow players to develop their character and its behavior in the direction and pace of their choosing.
 
 ## PREREQUISITE
 A Machine running Windows 10.
